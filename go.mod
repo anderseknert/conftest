@@ -5,7 +5,7 @@ go 1.23
 toolchain go1.23.1
 
 require (
-	cuelang.org/go v0.12.0
+	cuelang.org/go v0.12.1
 	github.com/BurntSushi/toml v1.4.0
 	github.com/CycloneDX/cyclonedx-go v0.9.2
 	github.com/KeisukeYamashita/go-vcl v0.4.0
@@ -24,6 +24,7 @@ require (
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/open-policy-agent/opa v1.1.0
 	github.com/opencontainers/image-spec v1.1.0
+	github.com/owenrumney/go-sarif/v2 v2.3.3
 	github.com/pkg/errors v0.9.1
 	github.com/shteou/go-ignore v0.3.1
 	github.com/spdx/tools-golang v0.5.5
@@ -85,7 +86,6 @@ require (
 	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/owenrumney/go-sarif/v2 v2.3.3 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.3 // indirect
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 // indirect
 	github.com/prometheus/client_golang v1.20.5 // indirect
